@@ -4,4 +4,5 @@ Salesforce Trailhead project
 
 ## Must study markdown
 
-# Not much to change - this is line number 7
+# Hey, this is also line number 7. Ready for a merge conflict?
+
